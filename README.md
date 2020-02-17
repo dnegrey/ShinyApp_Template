@@ -2,6 +2,6 @@
 
 *Shiny application template*
 
-**version x.x.x**
+**version 0.1.0**
 
 ----------
