@@ -54,6 +54,9 @@ sidebar
     background-color: #2B3E50;
     border-right: 1px solid #2B3E50;
 }
+#section-sidebar .chart-title {
+    display: none;
+}
 #section-sidebar p:not(#appTitle) {
     font-size: small;
 }
