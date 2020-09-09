@@ -1,15 +1,15 @@
 /*
-import Montserrat font from Google (closest to Gotham)
+import Open Sans font from Google (closest to Verdana)
 */
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
 
 /*
 global
 */
 
 body {
-    font-family: 'Montserrat', Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     background-color: #EAEAEA;
 }
 
@@ -23,10 +23,14 @@ navbar
 }
 .navbar-logo {
     height: 40px;
-    margin-top: 4px;
+    margin-top: 3px;
 }
 .navbar-brand {
     font-size: 18px;
+    width: 180px;
+    margin-right: 26px;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-brand:hover {
