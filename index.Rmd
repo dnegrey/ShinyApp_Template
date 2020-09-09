@@ -5,8 +5,8 @@ output:
         theme: bootstrap
         orientation: rows
         css: www/styles.css
-        logo: www/storm-logo.png
-        favicon: www/storm-favicon.png
+        logo: www/dan-icon.png
+        favicon: www/dan-icon.png
 runtime: shiny
 ---
 
